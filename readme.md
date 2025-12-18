@@ -81,10 +81,8 @@ random-quote-express/
 └── package.json      # Зависимости и скрипты
 ```
 
-## 📸 Скриншоты
+## 📸 Скриншот
 
-*(Здесь можно добавить скриншот интерфейса)*
-![App Screenshot](placeholder.png)
 
----
-© 2025 Random Quote Generator
+![App Screenshot](images/Prikol.png)
+
